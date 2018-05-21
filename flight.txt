@@ -1,0 +1,7 @@
+ Spicejet:SG-107    07:00AM-09:00AM   3134rs
+ Air India:AI-302    10:00AM-12:00PM   5100rs 
+ Jet Airways:JA-990     17:00AM-19:00AM   3134rs
+ Quatar:QA-189     10:00AM-12:00PM    5100rs
+
+ 
+ 

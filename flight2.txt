@@ -1,0 +1,4 @@
+ Spicejet:SG-110     07:00AM-09:00AM   3134rs
+ Indigo:IN-30510     10:00AM-12:00PM   5100rs 
+ Spicejet:JA-990     17:00AM-19:00AM   3134rs
+ AirIndia:QA-189     10:00AM-12:00PM   5100rs
